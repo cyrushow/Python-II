@@ -25,3 +25,4 @@ if invalid:
     print("Invalid city, please try again.")
 else:
     print(f"Weather in {user_city} is {temperature_found:.2f}°C with a feels like temperature of {feels_like_temp:.2f}°C with a humidity percentage of {humidity:.2f}%")
+    print(f"Weather in {user_city} is {temperature_found:.2f}°C with a feels like temperature of {feels_like_temp:.2f}°C with a humidity percentage of {humidity:.2f}%")
